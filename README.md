@@ -18,7 +18,7 @@ Game Flappy Bird 2D được xây dựng bằng **Unity** và **C#**, tái hiệ
 
 | Thành phần | Chi tiết |
 |---|---|
-| Engine | Unity PHIÊN_BẢN_CỦA_BẠN |
+| Engine | Unity 2022.3.62f1 |
 | Ngôn ngữ | C# |
 | IDE | Visual Studio / VS Code |
 | Quản lý mã nguồn | Git, GitHub |
