@@ -32,7 +32,7 @@ Game Flappy Bird 2D được xây dựng bằng **Unity** và **C#**, tái hiệ
 
 ## 🚀 Cách mở dự án trên máy
 
-1. Cài **Unity Hub** và phiên bản Unity **PHIÊN_BẢN_CỦA_BẠN** (xem trong file `ProjectSettings/ProjectVersion.txt`).
+1. Cài **Unity Hub** và phiên bản Unity **2022.3.62f1** (xem trong file `ProjectSettings/ProjectVersion.txt`).
 2. Tải dự án về máy:
    ```bash
    git clone https://github.com/TEN_BAN/flappy-bird-game.git
