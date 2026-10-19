@@ -57,6 +57,7 @@ Assets/
 - Sinh và hủy đối tượng liên tục (Instantiate / Destroy) để game chạy mượt
 - Tổ chức code thành các script nhỏ, mỗi script làm một việc
 - Dùng Git để quản lý phiên bản và đưa dự án lên GitHub
+- Nâng cao : Áp dụng Singleton để tổ chức code gọn gàng hơn, sử dụng tư duy hệ thống phân bổ nhiệm vụ riêng cho mỗi script tránh Spaghetti code
 
 ## 🔮 Hướng phát triển
 
