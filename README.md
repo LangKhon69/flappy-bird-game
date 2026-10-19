@@ -67,7 +67,7 @@ Assets/
 ## 👤 Tác giả
 
 **TÊN_CỦA_BẠN**
-- GitHub: [@TEN_BAN](https://github.com/LangKhon69)
+- GitHub: https://github.com/LangKhon69
 - Email: lekhangls101@gmail.com
 
 ## 📄 Giấy phép
