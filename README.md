@@ -3,7 +3,7 @@
 Game Flappy Bird 2D được xây dựng bằng **Unity** và **C#**, tái hiện lối chơi kinh điển: điều khiển chú chim bay qua các cặp ống và ghi điểm cao nhất có thể.
 
 
-▶️ **[Chơi thử ngay trên trình duyệt]
+▶️ **[Chơi thử ngay trên trình duyệt] (https://thunderboy69.itch.io/flappy-bird-copy)**
 
 ## ✨ Tính năng
 
